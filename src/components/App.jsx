@@ -17,7 +17,7 @@ export const App = () => {
       <Filter />
       <ContactList />
 
-      <ToastContainer position="top-center" autoClose={3000} theme="colored" />
+      <ToastContainer position="top-right" autoClose={3000} theme="colored" />
     </>
   );
 };
